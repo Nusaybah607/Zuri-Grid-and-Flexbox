@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:white;
+}
+main{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.first-content {
+background-color:hsl(31, 77%, 52%);
+    padding: 2em;
+}
+.first-content h2{
+color:rgb(250, 244, 244);
+    font-size:15px ;
+padding-bottom: ;
+}
+
+.first-content p{
+    color: rgb(250, 244, 244);
+    font-size:15px ;
+padding-bottom: ;
+}
+
+.second-content {
+    background-color:hsl(184, 100%, 22%);
+    padding: 2em;
+}
+
+.second-content h2{
+    color:rgb(250, 244, 244);
+        font-size:15px ;
+    padding-bottom: ;
+    }
+
+    .second-content p{
+        color: rgb(250, 244, 244);
+        font-size:15px ;
+    padding-bottom: ; 
+    }
+
+.third-content{
+    background-color:hsl(179, 100%, 13%);
+    padding: 2em;
+}
+
+.third-content p{
+    color: rgb(250, 244, 244);
+    font-size:15px ;
+padding-bottom: ; 
+}
+
+.third-content h2{
+    color: rgb(250, 244, 244);
+    font-size:15px ;
+padding-bottom: ;
+}

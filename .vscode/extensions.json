@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "techer.open-in-browser",
+        "ritwickdey.liveserver",
+        "aaron-bond.better-comments"
+    ]
+}
